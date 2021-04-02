@@ -13,3 +13,4 @@ You can also sort the data by clicking on the heading of each table (City, State
 ## Future fixes:
 - Configure Javascript to allow filtering by all methods at the same time
 - Flesh out design, layout and CSS
+- Reduce load times
