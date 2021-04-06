@@ -62,7 +62,7 @@ function filterState() {
 //Filter min/max population function
 function filterPop() {
   // Declare variables
-  var min, max, filter, table, tr, td, i, txtValue;
+  var minInput, maxInput, table, tr, td, i, txtValue;
   minInput = parseFloat(document.getElementById("min").value);
   maxInput = parseFloat(document.getElementById("max").value);
   console.log(minInput, maxInput);
